@@ -1,12 +1,12 @@
-# Tourn - Take me to somewhere beautiful!
+# Tourn
 
 Tourn is an application to explore new places around you and follow directions to it, but without knowing in advance where you are going. You just have to set some filters and a route to a secret destination will be shown. 
-
+* Video [here!](https://youtu.be/MSM_3tyEuRM)
 
 
 ## Screenshots
 <p align="center">
-  <img style='width:80%' src="https://res.cloudinary.com/dptkkaj8n/image/upload/v1649068458/usher-posters/ExploreScreenshots_djoz48.png" />
+  <img style='width:80%' src="https://res.cloudinary.com/dptkkaj8n/image/upload/v1649075366/usher-posters/Tourn-screenshots_m8emt1.png" />
 </p>
 
 
